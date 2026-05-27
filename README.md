@@ -31,7 +31,7 @@ The pipeline bridges raw structural biology data with machine learning-driven le
 * **Structural Validation:** Visual inspection confirmed precise ligand positioning nestled within the receptor's alpha-helical transmembrane domain bundle.
 
 ### Binding Pocket Visualization
-![GLP-1R Binding Pocket][`results/structure_screenshot_1778206799056.jpg`](results/structure_screenshot_1778206799056.jpg)
+[GLP-1R Binding Pocket][`results/Screenshot 2026-05-10 201838.png`](results/Screenshot 2026-05-10 201838.png)
 
 ---
 
