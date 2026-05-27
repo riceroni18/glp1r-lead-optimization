@@ -12,8 +12,8 @@ This repository contains an end-to-end computational biology workflow developed 
 
 The pipeline bridges raw structural biology data with machine learning-driven lead optimization through a three-tiered modular design:
 
-1. **Structural Data Ingestion [`scripts/get_seq.py`](scripts/get_seq.py)):** A custom Python parser designed to map and convert three-letter amino acid residues from target PDB files (`data/6XOX_GLP1R_chainR.pdb`) into a continuous single-letter FASTA sequence required by modern ML architectures.
-2. **Combinatorial Ligand Library Generation (`scripts/generate_keys.py`):** An algorithmic string-manipulation utility that automates site-specific chemical modifications (including Fluorination and Chlorination) across a library of small-molecule candidates, systematically mutating a core Danuglipron scaffold using SMILES string slicing.
+1. **Structural Data Ingestion [`scripts/get_seq.py`](scripts/get_seq.py)):** A custom Python parser designed to map and convert three-letter amino acid residues from target PDB files [`data/6XOX_GLP1R_chainR.pdb`](data6XOX_GLP1R_chainR.pdb)) into a continuous single-letter FASTA sequence required by modern ML architectures.
+2. **Combinatorial Ligand Library Generation [`scripts/generate_keys.py`](scripts/generate_keys.py)):** An algorithmic string-manipulation utility that automates site-specific chemical modifications (including Fluorination and Chlorination) across a library of small-molecule candidates, systematically mutating a core Danuglipron scaffold using SMILES string slicing.
 3. **Biophysical Evaluation:** Deployed generated candidates to cloud infrastructure to evaluate spatial binding and affinity using the state-of-the-art **Boltz-2** structural prediction model.
 
 ---
