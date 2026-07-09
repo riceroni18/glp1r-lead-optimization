@@ -43,6 +43,7 @@ Artificial intelligence is rapidly transforming drug discovery by enabling resea
 
 ## Repository Structure
 
+```text
 GLP1-Drug-Discovery/
 │
 ├── data/
@@ -55,7 +56,7 @@ GLP1-Drug-Discovery/
 ├── README.md
 │
 └── project_documentation.pdf
-
+```
 ---
 ## Results
 
