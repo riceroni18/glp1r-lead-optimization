@@ -11,11 +11,26 @@ Applied the Boltz-2 structural biology foundation model to investigate GLP-1 rec
 
 ---
 
-## Why This Project?
+## Why THis Project?
 
 Artificial intelligence is rapidly transforming drug discovery by enabling researchers to predict protein structures and investigate molecular interactions before laboratory validation. This project provided hands-on experience using a state-of-the-art structural biology foundation model to explore how computational approaches can support therapeutic research.
 
 ---
+## Project Media
+
+### AI-Predicted GLP-1 Receptor Structure
+
+*(Insert your protein structure image here.)*
+
+Example:
+
+<p align="center">
+  <img src="results/Screenshot 2026-05-10 201838.png" width="700">
+</p>
+
+*Figure 1. AI-generated GLP-1 receptor structure predicted using the Boltz-2 structural biology foundation model.*
+
+--
 
 ## Features
 
@@ -33,30 +48,27 @@ Artificial intelligence is rapidly transforming drug discovery by enabling resea
 - Structural Biology
 - Computational Biology
 - Protein Structure Prediction
-
----
-
-## Workflow
+- 
+```
+## Repository Structure
 
 ```text
-GLP-1 Target Selection
-          │
-          ▼
- Boltz-2 Structure Prediction
-          │
-          ▼
- 3D Protein Structure Generation
-          │
-          ▼
- Structural Interpretation
-          │
-          ▼
- Therapeutic Insight Exploration
+GLP1-Drug-Discovery/
+│
+├── data/
+│
+├── images/
+│   └── glp1_structure.png
+│
+├── presentation/
+│
+├── README.md
+│
+└── project_documentation.pdf
 ```
-
 ---
 
-## Project Summary
+## Results
 
 ### Input
 
@@ -82,7 +94,7 @@ GLP-1 Target Selection
 
 ---
 
-## Future Improvements
+## Future DEvelopments
 
 - Compare predicted structures with experimentally determined protein structures.
 - Investigate additional GLP-1 receptor agonists and therapeutic candidates.
@@ -92,53 +104,5 @@ GLP-1 Target Selection
 
 ---
 
-## Repository Structure
 
-```text
-GLP1-Drug-Discovery/
-│
-├── data/
-│
-├── images/
-│   └── glp1_structure.png
-│
-├── presentation/
-│
-├── README.md
-│
-└── project_documentation.pdf
-```
 
----
-
-## Project Media
-
-### AI-Predicted GLP-1 Receptor Structure
-
-*(Insert your protein structure image here.)*
-
-Example:
-
-<p align="center">
-  <img src="images/glp1_structure.png" width="700">
-</p>
-
-*Figure 1. AI-generated GLP-1 receptor structure predicted using the Boltz-2 structural biology foundation model.*
-
----
-
-## About This Project
-
-This project was completed independently during the **San Diego x AI Hackathon** to explore the growing role of foundation models in structural biology and computational drug discovery. It reflects my interest in applying artificial intelligence to biological research and expanding my experience in computational approaches to therapeutic development.
-
----
-
-## Author
-
-### Marina Rice
-
-**M.S. Bioinformatics Candidate | Clinical Genomics | Computational Biology**
-
-**GitHub:** https://github.com/riceroni18
-
-**LinkedIn:** https://www.linkedin.com/in/marina-rice-3071a1a9
