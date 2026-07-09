@@ -11,7 +11,7 @@ Applied the Boltz-2 structural biology foundation model to investigate GLP-1 rec
 
 ---
 
-## Why THis Project?
+## Why This Project?
 
 Artificial intelligence is rapidly transforming drug discovery by enabling researchers to predict protein structures and investigate molecular interactions before laboratory validation. This project provided hands-on experience using a state-of-the-art structural biology foundation model to explore how computational approaches can support therapeutic research.
 
