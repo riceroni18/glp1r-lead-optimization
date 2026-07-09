@@ -19,16 +19,11 @@ Artificial intelligence is rapidly transforming drug discovery by enabling resea
 ## Project Media
 
 ### AI-Predicted GLP-1 Receptor Structure
-
-*(Insert your protein structure image here.)*
-
-Example:
+*Figure 1. AI-generated GLP-1 receptor structure predicted using the Boltz-2 structural biology foundation model.*
 
 <p align="center">
   <img src="results/Screenshot 2026-05-10 201838.png" width="700">
 </p>
-
-*Figure 1. AI-generated GLP-1 receptor structure predicted using the Boltz-2 structural biology foundation model.*
 
 --
 
