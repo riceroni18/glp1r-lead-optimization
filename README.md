@@ -1,10 +1,11 @@
 # GLP-1 Drug Discovery | AI-Powered Structural Biology
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![BLAST](https://img.shields.io/badge/BLAST-NCBI-green)
-![HMMER](https://img.shields.io/badge/HMMER-Protein_Domains-success)
-![TMHMM](https://img.shields.io/badge/TMHMM-Topology-orange)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Genomics-blueviolet)
+![Boltz-2](https://img.shields.io/badge/Boltz--2-Foundation_Model-blueviolet)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-AI-blue)
+![Structural Biology](https://img.shields.io/badge/Structural_Biology-Protein_Structure-success)
+![Computational Biology](https://img.shields.io/badge/Computational_Biology-Bioinformatics-green)
+![Drug Discovery](https://img.shields.io/badge/Drug_Discovery-Therapeutics-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Applied the Boltz-2 structural biology foundation model to investigate GLP-1 receptor structure and explore how artificial intelligence can accelerate early-stage therapeutic discovery. This project demonstrates the application of modern AI models to structural biology and computational drug discovery.
 
