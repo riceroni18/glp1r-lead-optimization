@@ -32,8 +32,6 @@ Artificial intelligence is rapidly transforming drug discovery by enabling resea
 - Explored the application of foundation models in computational biology.
 - Interpreted structural predictions to better understand AI-assisted drug discovery workflows.
 
----
-
 ## Technologies Used
 
 - Boltz-2
@@ -41,11 +39,10 @@ Artificial intelligence is rapidly transforming drug discovery by enabling resea
 - Structural Biology
 - Computational Biology
 - Protein Structure Prediction
-- 
-```
+---
+
 ## Repository Structure
 
-```text
 GLP1-Drug-Discovery/
 │
 ├── data/
@@ -58,9 +55,8 @@ GLP1-Drug-Discovery/
 ├── README.md
 │
 └── project_documentation.pdf
-```
----
 
+---
 ## Results
 
 ### Input
