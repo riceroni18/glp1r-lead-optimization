@@ -22,7 +22,7 @@ Artificial intelligence is rapidly transforming drug discovery by enabling resea
 *Figure 1. AI-generated GLP-1 receptor structure predicted using the Boltz-2 structural biology foundation model.*
 
 <p align="center">
-  <img src="results/glp1_structure.png" width="700">
+  <img src="results/Screenshot 2026-05-10 201838.png" width="700">
 </p>
 
 ## Features
@@ -47,8 +47,13 @@ Artificial intelligence is rapidly transforming drug discovery by enabling resea
 GLP1-Drug-Discovery/
 │
 ├── data/
+│    └── 6XOX_GLP1R_chainR.pdb
 │
-├── glp1_structure.png
+├── results/
+│    └── glp1_structure.png
+├── src/
+│    └── generate_keys.py
+│    └── get_seq.py
 │
 └── README.md
 ```
