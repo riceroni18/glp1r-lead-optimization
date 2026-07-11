@@ -48,14 +48,9 @@ GLP1-Drug-Discovery/
 │
 ├── data/
 │
-├── images/
-│   └── glp1_structure.png
+├── glp1_structure.png
 │
-├── presentation/
-│
-├── README.md
-│
-└── project_documentation.pdf
+└── README.md
 ```
 ---
 ## Results
